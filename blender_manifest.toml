@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "blenvtools"
+version = "0.1.0"
+name = "blenvtools"
+tagline = "Environment tools for Blender"
+maintainer = "rombiezobots"
+type = "add-on"
+tags = ["3D View"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
